@@ -14,5 +14,12 @@
 
 ^ The idea of these terms are make as random as possible the generation of the key and avoid or prevent brute force attacks by rainbow tables or dictionary.
 
+```objectivec
+
+^ The salt creates a random string and prepend it to passwords to make brute forcing harder
+^ A salt is a random sequence added to the password string before using the hash function. The salt is used in order to prevent dictionary attacks and rainbow tables attacks
+
+
+```
 
 ---
